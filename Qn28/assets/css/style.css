@@ -1,0 +1,123 @@
+*{
+    padding:opx;
+    margin: 0px;
+}
+body{
+    background-color: #E6DAFE;
+    height: 100%;
+}
+
+.error{
+    color:red;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.loginDiv{
+    position:fixed;
+    top:30%;
+    left:36%;
+    background-color: white;
+    border-radius: 10px;
+    height:60%;
+    width: 30%;
+}
+
+.labelStyle{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 25px;
+}
+
+.inputLogin{
+    height: 25px;
+    width:75%;
+}
+
+.loginColor{
+    background-color: rgb(90, 154, 197);
+    border: none;
+    color:white;
+}
+table{
+    width:100%;
+    
+}
+tr{
+    background-color: white;
+    height: 50px;
+}
+
+.navBar{
+    background-color: aliceblue;
+}
+
+
+.clrHead{
+    color:black;
+}
+
+.ImgStyle{
+    width:20px;
+    height:20px;
+}
+
+.userView{
+    width:55%;
+    height:55%;
+}
+.adminView{
+    width:150px;
+    height:150px;
+}
+
+.adminDiv{
+    width: 365.59px;
+    height: 418.58px;;
+}
+
+.back{
+	position:fixed;
+	height:50px;
+	width:50px;
+	bottom:20%;
+	cursor:pointer;
+	border-radius:24px;
+	display: flex;
+    justify-content: center;
+	align-items:center;
+	cursor: pointer;
+}
+
+.backStyle{
+    width:30px;
+    height: 30px;
+}
+
+.input{
+    width:100%;
+}
+
+a{
+    text-decoration: none;
+}
+.forHeight{
+    height: 100px;
+}
+
+.btnpos{
+    position:fixed;
+    right:0;
+    bottom:20%;
+}
+
+.heights{
+    height: 100%;
+    
+}
